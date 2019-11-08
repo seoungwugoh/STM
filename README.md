@@ -16,7 +16,7 @@
 #### Download weights
 ##### Place it the same folder with demo scripts
 ```
-wget -O temp"
+wget -O STM_weights https://www.dropbox.com/s/mtfxdr93xc3q55i/STM_weights.pth?dl=1"
 ```
 
 #### Run
