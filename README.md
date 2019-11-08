@@ -4,7 +4,7 @@
 [[paper]](https://arxiv.org/abs/1904.00607)
 
 ### - Abstract
-![network](./network.pdf)
+![network](./networks.pdf)
 ![avs](./avs_d17.pdf)
 
 
