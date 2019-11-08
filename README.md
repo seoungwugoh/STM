@@ -3,15 +3,7 @@
 ### ICCV 2019
 [[paper]](https://arxiv.org/abs/1904.00607)
 
-### - Abstract
-![network](./networks.pdf)
-![avs](./avs_d17.pdf)
-
-
 [![Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)](https://img.youtube.com/vi/vVZiBEDmgIU/0.jpg)](https://www.youtube.com/watch?v=vVZiBEDmgIU "Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)")
-
-
-
 
 
 
