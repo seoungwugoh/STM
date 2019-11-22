@@ -39,7 +39,6 @@ ICCV 2019
 ```
 
 ### - Related Project
-Please check out our another approach for video inpaining!
 ``` 
 Fast Video Object Segmentation by Reference-Guided Mask Propagation
 Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim
