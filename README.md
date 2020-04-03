@@ -1,7 +1,7 @@
 ## Video Object Segmentation using Space-Time Memory Networks
 ### Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
 ### ICCV 2019
-[[paper]](https://arxiv.org/abs/1904.00607)
+[[paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.html)
 
 [![Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)](https://img.youtube.com/vi/vVZiBEDmgIU/0.jpg)](https://www.youtube.com/watch?v=vVZiBEDmgIU "Video Object Segmentation using Space-Time Memory Networks (ICCV 2019)")
 
