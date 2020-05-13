@@ -51,9 +51,9 @@ CVPR 2018
 
 ### - Interactive VOS (Quantitative Evaluation)
 A modified STM model is used for DAVIS Interactive VOS Challenge 2019 (https://davischallenge.org/challenge2019/interactive.html). 
-If you are intersted in comparison with our interactive STM model, please use evaluation summary obtained from the [DAVIS framework](https://interactive.davischallenge.org/). The timing is measured using a single 2080Ti GPU.
+If you are intersted in comparison with our interactive STM model, please use evaluation summary obtained from the [DAVIS framework](https://interactive.davischallenge.org/). 
 [[Download link (DAVIS-17-val)]](https://www.dropbox.com/s/owoms3rtalg52wn/STM_Interactive_summary_DAVIS17_val.json?dl=1).
-We will make a demo software available soon. 
+The timing is measured using a single 2080Ti GPU. We will make a demo software available soon. 
 For the further questions, please contact me by E-mail.
 
 
