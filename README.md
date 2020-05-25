@@ -33,7 +33,7 @@ python eval_DAVIS.py -g '1' -s val -y 17 -D [path/to/DAVIS]
 If you are not able to run our code but interested in our results. The pre-computed results will be helpful.
 - [[DAVIS-16-val]](https://www.dropbox.com/sh/hnqp7ci2w6am1ah/AADSoZoqKAhGWqMgdlMq_hf0a?dl=1)
 - [[DAVIS-17-val]](https://www.dropbox.com/sh/9ijjmm1gajkxx5b/AAA3a_55Z6eD54B3hPB7Zi3oa?dl=1)
-- [[DAVIS-17-td]](https://www.dropbox.com/sh/0nlcoueauzzmhaf/AADCNmn9koShzb0bEffFhhP7a?dl=1)
+- [[DAVIS-17-td]](https://www.dropbox.com/sh/orztasfa4uaym2o/AADy3LgNByWUWxAQHk5j-3cfa?dl=1)
 - [[YouTube-VOS-18-valid]](https://www.dropbox.com/s/5mxy0715sdtnprm/YoutubeVOS-valid.zip?dl=1)
 - [[YouTube-VOS-19-valid]](https://www.dropbox.com/s/l1lvnylcoo288y5/YoutubeVOS19-valid.zip?dl=1)
 
